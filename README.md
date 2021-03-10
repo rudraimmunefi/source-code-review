@@ -10,3 +10,4 @@
 # Tools
 
 * [Open Source Bug Bounty](https://www.huntr.dev/)
+* [SeeBug](https://paper.seebug.org/)

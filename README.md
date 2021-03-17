@@ -15,4 +15,7 @@
 
 # Misc
 
+(( Might not be related to source code but interseting ))
+
 * [Ways to alert(document.domain)](https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309)
+* [Data protection laws leading to account takeover](https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf)

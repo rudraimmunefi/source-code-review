@@ -12,3 +12,7 @@
 * [Open Source Bug Bounty](https://www.huntr.dev/)
 * [SeeBug](https://paper.seebug.org/)
 * [VulnCode-DB](https://www.vulncode-db.com/)
+
+# Misc
+
+* [Ways to alert(document.domain)](https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309)

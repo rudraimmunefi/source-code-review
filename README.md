@@ -21,3 +21,4 @@
 * [Data protection laws leading to account takeover](https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf)
 * [Weird Web proxy](https://github.com/rudrapwn/weird_proxies)
 * [RECOVERING A FULL PEM PRIVATE KEY WHEN HALF OF IT IS REDACTED](https://blog.cryptohack.org/twitter-secrets)
+* [Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)

@@ -14,6 +14,7 @@
 * [Open Source Bug Bounty](https://www.huntr.dev/)
 * [SeeBug](https://paper.seebug.org/)
 * [VulnCode-DB](https://www.vulncode-db.com/)
+* [Java Learn Security](https://github.com/SummerSec/JavaLearnVulnerability)
 
 # Misc
 

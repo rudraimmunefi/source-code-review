@@ -8,6 +8,7 @@
 * [Reproducing the Microsoft Exchange Proxylogon Exploit Chain](https://www.praetorian.com/blog/reproducing-proxylogon-exploit/)
 * [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 * [EXIF RCE](https://amalmurali47.medium.com/an-image-speaks-a-thousand-rces-the-tale-of-reversing-an-exiftool-cve-585f4f040850)
+* [Argument injection in dragonfly gem](https://zxsecurity.co.nz/research/argunment-injection-ruby-dragonfly/)
 
 # Tools
 

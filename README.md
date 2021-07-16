@@ -10,6 +10,7 @@
 * [EXIF RCE](https://amalmurali47.medium.com/an-image-speaks-a-thousand-rces-the-tale-of-reversing-an-exiftool-cve-585f4f040850)
 * [Argument injection in dragonfly gem](https://zxsecurity.co.nz/research/argunment-injection-ruby-dragonfly/)
 * [Pre-Auth RCE in ForgeRock](https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464)
+* [WOO-Commerce SQLI](https://viblo.asia/p/phan-tich-loi-unauthen-sql-injection-woocommerce-naQZRQyQKvx)
 
 # Tools
 

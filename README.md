@@ -12,6 +12,7 @@
 * [Pre-Auth RCE in ForgeRock](https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464)
 * [WOO-Commerce SQLI](https://viblo.asia/p/phan-tich-loi-unauthen-sql-injection-woocommerce-naQZRQyQKvx)
 * [Deserialization on Rails](https://zenn.dev/ooooooo_q/books/rails_deserialize/viewer/introduction)
+* [Confluence OGNL RCE - CVE-2021-26084](https://github.com/snowyyowl/writeups/blob/main/CVE-2021-26084.md)
 
 # Tools
 
